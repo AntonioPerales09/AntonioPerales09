@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Tu Nombre]  
 
-<!--
-**AntonioPerales09/AntonioPerales09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrollador en formación** | 🚀 Explorando **Java con Spring Boot** y **C# con .NET**  
 
-Here are some ideas to get you started:
+Apasionado por la programación y el desarrollo backend. Actualmente aprendiendo y creando proyectos con **Java + Spring Boot** y **C# + .NET**. Me interesa la construcción de aplicaciones escalables, APIs REST y arquitecturas modernas.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías  
+- **Lenguajes:** Java, C#  
+- **Frameworks:** Spring Boot, .NET  
+- **Bases de datos:** MySQL, PostgreSQL    
+
+### 📫 Contacto  
+📧 Email: joseperales49@cenyca.edu.com 
+
+---
+
+⭐ *Siempre aprendiendo y creando cosas geniales* 🚀  
