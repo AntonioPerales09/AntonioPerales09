@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]  
+# 👋 ¡Hola! Soy Jose Antonio Perales Ramos
 
 💻 **Desarrollador en formación** | 🚀 Explorando **Java con Spring Boot** y **C# con .NET**  
 
