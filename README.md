@@ -1,5 +1,8 @@
 # 👋 ¡Hola! Soy Jose Antonio Perales Ramos
 
+🎓 Estudiante de Ingeniería en Sistemas Computacionales
+📍 Cenyca Universidad | 8° Cuatrimestre
+
 💻 **Desarrollador en formación** | 🚀 Explorando **Java con Spring Boot** y **C# con .NET**  
 
 Apasionado por la programación y el desarrollo backend. Actualmente aprendiendo y creando proyectos con **Java + Spring Boot** y **C# + .NET**. Me interesa la construcción de aplicaciones escalables, APIs REST y arquitecturas modernas.  
